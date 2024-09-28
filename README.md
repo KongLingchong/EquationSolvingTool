@@ -1,5 +1,9 @@
 # How to use the tool?
 you should input the number.
+
+language:Chinese
+
+befor runing the code,you should install easygui.
 ## for example
 equation:x^2 + 2x + 1 = 0
 ### you should input
