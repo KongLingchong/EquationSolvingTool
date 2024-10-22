@@ -18,3 +18,8 @@ the third space:1
 main.py is the code of the tool.
 
 方程求解器.exe is the exe of the tool.you can run it on Windows.
+
+## Run the code
+This is the main page.
+
+![批注 2024-07-30 102002](https://github.com/user-attachments/assets/27f11dce-4428-4f73-80b0-db76abe11058)
